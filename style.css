@@ -1,0 +1,112 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+head{
+    background-image: url(personal-website/header-bg.png);
+}
+.first-part{
+    width: 35%;
+    
+    float: left;
+}
+#first{
+    margin-left: 140px;
+    padding-top: 100px;
+}
+#second{
+    margin-right: 140px;
+    padding-top: 50px;
+}
+.first-part img{
+    width: 600px;
+    height: 620px;
+}
+.name-hilight{
+    color: #fc0362;
+}
+button{
+    background-color: #fc0362;   
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 7px;
+    border: 0px;
+    
+}
+#p-left{
+    margin-left: 140px;
+    padding-top: 200px;
+  
+}
+#p-right{
+    margin-left: 200px;
+    padding-top: 300px;
+    height: 645px;
+    
+}
+
+.first-img{
+    width: 358px;
+    height: 331px;
+}
+.second-img{
+    width: 358px;
+    height: 331px;
+}
+.third-img{
+    width: 358px;
+    height: 331px;
+}
+.work{
+    float: left;
+    padding-left: 5%;
+}
+.two-part{
+    height: 700px;
+}
+.hight{
+    text-align: center;
+    width: 1306px;
+    height: 306px;
+}
+.client-fitback{
+    padding-bottom: 25px;
+}
+.client{
+    text-align: center;
+    background-image: url(personal-website/footer-bg.png);
+}
+.minas-h5{
+    margin-bottom: -5px;
+}
+.client h4{
+    width: 1336px;
+    height: 4px;
+}
+.closs{
+    margin-top: 25px;
+    width: 1341px;
+    height: 10px;
+}
+.address{
+    text-align: center;
+    margin: 50px 350px 50px 350px;
+    background-color: #fc0362 ;
+    background-size: 50px;
+    padding-bottom: 35px;
+    padding-top: 35px;
+    border-radius:10px;
+    
+}
+footer p{
+    text-align: center;
+    padding-top: 80px;
+    background-image: url(personal-website/footer-bg.png);
+    
+}
+#biography{
+    background-image: url(personal-website/biography-bg.png);
+}
+#background-img{
+    background-image: url(personal-website/latest-work-bg.png);
+}
